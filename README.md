@@ -1,6 +1,7 @@
 # 🛒 Retail Pricing Intelligence
 
 **Python • Pandas • Power BI • DAX • Power Query • Data Analytics**
+
 An end-to-end retail analytics project that transforms messy electronics pricing data into actionable pricing and competitive insights using **Python and Power BI**.
 
 The project analyzes **7,235 retail listings across 835 products, 237 brands, and 680 merchants** to investigate pricing position, promotional activity, merchant concentration, and the value of used and refurbished products.

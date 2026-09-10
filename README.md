@@ -33,6 +33,33 @@ The Power BI report contains three analytical views:
 
 ![Brand and Price Positioning](img/dashboard/brand-price-positioning.png)
 
+## ⚡ Project at a Glance
+
+| Metric | Result |
+|---|---:|
+| Listings Analyzed | 7,235 |
+| Unique Products | 835 |
+| Brands | 237 |
+| Merchants | 680 |
+| Median Listing Price | $196.77 |
+| Sale-Marked Listings | 23.93% |
+| Median Used Savings* | 31.46% |
+| Median Refurbished Savings* | 35.01% |
+
+\*Savings are based on same-product comparisons: 91 New-vs-Used products and 41 New-vs-Refurbished products.
+
+## 🔨 What I Built
+
+I developed an end-to-end retail pricing analytics workflow:
+
+**Raw Kaggle Data → Python Cleaning → Feature Engineering → EDA → KPI Development → Power BI Dashboard**
+
+- **Python / Pandas:** cleaned and standardized pricing, brand, merchant, condition, shipping, availability, and date fields.
+- **EDA:** investigated price distributions, category differences, promotional patterns, merchant concentration, and product-condition pricing.
+- **Analytical methodology:** used category-controlled brand comparisons and same-product matching for condition-based savings.
+- **Power BI:** built a three-page interactive dashboard using Power Query and DAX for executive, product-condition, and brand-level analysis.
+- **Git/GitHub:** documented the workflow, notebooks, processed datasets, dashboard, methodology, and limitations.
+
 ### 1. Executive Overview
 Provides a high-level view of:
 - Total listings, products, brands, and merchants

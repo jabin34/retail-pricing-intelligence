@@ -19,6 +19,17 @@ This project builds a reproducible analytical workflow to turn raw listing data 
 ## 📊 Dashboard
 
 The Power BI report contains three analytical views:
+### Executive Overview
+
+![Executive Overview](img/dashboard/executive-overview.png)
+
+### Product & Condition Analysis
+
+![Product and Condition Analysis](img/dashboard/product-condition.png)
+
+### Brand & Price Positioning
+
+![Brand and Price Positioning](img/dashboard/brand-price-positioning.png)
 
 ### 1. Executive Overview
 Provides a high-level view of:

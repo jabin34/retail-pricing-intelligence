@@ -98,7 +98,7 @@ retail-pricing-intelligence/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
+│   ├── 01_data_cleaning.ipynbgit commit -m "Improve project README"
 │   └── 02_eda.ipynb
 │
 ├── img/
@@ -107,5 +107,5 @@ retail-pricing-intelligence/
 
 ## 👤 Author
 
-**Israt Jabin**  
-Computer Science | Data Analytics | AI Engineering
+ **Israt Jabin**  
+Computer Science | Data Analytics 
